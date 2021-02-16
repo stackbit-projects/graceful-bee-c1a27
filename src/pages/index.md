@@ -327,7 +327,7 @@ sections:
     background_color: secondary
 seo:
   title: Stackbit DIY Theme 1
-  description: The preview of the DIY theme
+  description: The preview of the DIY theme 2
   extra:
     - name: 'og:type'
       value: website
