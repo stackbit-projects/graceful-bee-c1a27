@@ -39,7 +39,7 @@ sections:
       - image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
-      - image: images/logo-5.svg
+      - image: images/classic/logo.svg
         image_alt: DatoCMS logo
         image_align: center
       - image: images/brandon-guidelines.png
