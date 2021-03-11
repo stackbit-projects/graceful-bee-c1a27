@@ -51,7 +51,7 @@ sections:
       - image: images/logo-8.svg
         image_alt: Git logo
         image_align: center
-      - title: lorem-ipsum
+      - title: Title test
         subtitle: lorem-ipsum
         title_align: left
         content: >-
