@@ -42,8 +42,7 @@ sections:
       - image: images/classic/logo.svg
         image_alt: DatoCMS logo
         image_align: center
-      - image: images/brandon-guidelines.png
-        image_alt: Next.js logo
+      - image_alt: Next.js logo
         image_align: center
       - image: images/logo-7.svg
         image_alt: Gridsome logo
