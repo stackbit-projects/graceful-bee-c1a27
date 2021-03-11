@@ -48,9 +48,6 @@ sections:
       - image: images/logo-7.svg
         image_alt: Gridsome logo
         image_align: center
-      - image: images/logo-8.svg
-        image_alt: Git logo
-        image_align: center
       - title: Title test
         subtitle: lorem-ipsum
         title_align: left
@@ -75,6 +72,9 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+      - image: images/logo-8.svg
+        image_alt: Git logo
+        image_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
