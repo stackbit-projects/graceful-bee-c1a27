@@ -5,8 +5,8 @@ sections:
     title: This Is A Big Hero Headline fghf hjk 123
     subtitle: Optional hero section subtitle Var 1
     content: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel. test
+      edit from sidebar Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Donec nisl ligula, cursus id molestie vel. test
     actions:
       - label: Try Free
         url: /pricing
